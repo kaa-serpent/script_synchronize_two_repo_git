@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/portfolio-preview.webp" alt="Git Repository Synchronizer — keep two Git remotes in sync" width="100%">
+</p>
+
 # 🌀 Git Repository Synchronizer
 
 A simple **Bash script** to keep two Git repositories in sync — ideal for mirroring git history between hosts like **GitHub ↔ GitLab**, or any two remote repositories that share the same project.
